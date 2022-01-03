@@ -1,5 +1,5 @@
 # mac-changer
-Coded with Python3
+Coded with Python3, only for linux
 
 Use:
-Open a terminal or cmd (in Windows), search with cd the mac_changer.py location (Download folder is default location (C:/Users/{your name}/Downloads/mac_changer.py with linux /home/{your user}/Downloads/mac_changer.py)) and type "python mac_changer.py" or "python3 mac_changer.py"
+Open a terminal, search with cd the mac_changer.py location (Download folder is default location /home/{your user}/Downloads/mac_changer.py)) and type "python3 mac_changer.py"
